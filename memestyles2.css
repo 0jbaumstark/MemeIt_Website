@@ -1,0 +1,19 @@
+body{
+    background-color: #00fa60
+}
+
+header{
+    color: #00aa99;
+    font-size: 36px;
+}
+
+nav{
+    color: #00aa99;
+    font-size: 28px;
+    display: flex;
+}
+
+nav > a{
+    flex: 1;
+    text-align: center;
+}
